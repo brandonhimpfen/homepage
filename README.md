@@ -22,8 +22,11 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
+| [ai-contract-eval](https://github.com/brandonhimpfen/ai-contract-eval)  | Evaluation framework for structured AI outputs.    |  |  |
+| [ai-contract-kit](https://github.com/brandonhimpfen/ai-contract-kit)  | Define predictable interfaces between applications and AI models.    |  |  |
 | [notebooks-gallery](https://github.com/brandonhimpfen/notebooks-gallery)  | Cookbook of ML/LLM notebooks.    | docs | Jupyter Notebook |
 | [optimization-kernels](https://github.com/brandonhimpfen/optimization-kernels)  | Quantization and inference optimizations.    | tool | C++ |
+| [rag-starter](https://github.com/brandonhimpfen/rag-starter)  | Lightweight retrieval-augmented generation boilerplate.    |  |  |
 
 ### Cryptocurrency
 
@@ -59,6 +62,8 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
+| [flightlang](https://github.com/brandonhimpfen/flightlang)  | Domain-specific language for UAV mission definition.    |  |  |
+| [nofly-datasets](https://github.com/brandonhimpfen/nofly-datasets)  | Structured no-fly zone datasets and loaders.    |  |  |
 | [swarm-coordinator](https://github.com/brandonhimpfen/swarm-coordinator)  | Multi-UAV coordination primitives.    | tool | Python |
 
 A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
