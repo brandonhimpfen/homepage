@@ -61,6 +61,8 @@ A homepage for all my repositories.
 |-----------------|----------------------------------------------|------|----------|
 | [swarm-coordinator](https://github.com/brandonhimpfen/swarm-coordinator)  | Multi-UAV coordination primitives.    | tool | Python |
 
-A comprehensive list of repositories that have been archived may be found [here](https://github.com/brandonhimpfen?tab=repositories&q=&type=archived).
+A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
 
 ## Repositories (Archived)
+
+A comprehensive list of repositories that have been archived may be found [here](https://github.com/brandonhimpfen?tab=repositories&q=&type=archived).
