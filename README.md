@@ -32,7 +32,7 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| []()  |     |  |  |
+| [](https://github.com/brandonhimpfen/)  |     |  |  |
 
 ### Travel
 
@@ -42,15 +42,11 @@ A homepage for all my repositories.
 |-----------------|----------------------------------------------|------|----------|
 | [country-guides](https://github.com/brandonhimpfen/country-guides)  | Lightweight country/city guide markdowns.    | docs | Markdown |
 
-| Name            | Description                                  | Type | Format   |
-|-----------------|----------------------------------------------|------|----------|
-| []()  |     |  |  |
-
 #### Solo Travel
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| []()  |     |  |  |
+| [solo-traveler-cli](https://github.com/brandonhimpfen/solo-traveler-cli)  | A command-line tool to help solo travelers plan trips, track expenses, manage packing lists, and write travel journals.    | tool | Python |
 
 ### Miscellaenous
 
