@@ -32,7 +32,8 @@ A homepage for all my repositories.
 |-----------------|----------------------------------------------|------|----------|
 | [ai-contract-eval](https://github.com/brandonhimpfen/ai-contract-eval)  | Evaluation framework for structured AI outputs.    |  |  |
 | [ai-contract-kit](https://github.com/brandonhimpfen/ai-contract-kit)  | Define predictable interfaces between applications and AI models.    |  |  |
-| [ai-incident-reporting-system](https://github.com/brandonhimpfen/ai-incident-reporting-system)  | Structured system for reporting, classifying, and resolving AI incidents    |  |  |
+| [ai-incident-reporting-system](https://github.com/brandonhimpfen/ai-incident-reporting-system)  | Structured system for reporting, classifying, and resolving AI incidents.    |  |  |
+| [ai-policies](https://github.com/brandonhimpfen/ai-policies)  | Comprehensive set of open, customizable policy templates for responsible corporate AI development, usage, and governance.    |  |  |
 | [ai-provenance-corpus](https://github.com/brandonhimpfen/ai-provenance-corpus)  | Machine-readable corpus of provenance events describing how AI-assisted artifacts are retrieved, generated, cited, edited, verified, reviewed and published.    |  |  |
 | [notebooks-gallery](https://github.com/brandonhimpfen/notebooks-gallery)  | Cookbook of ML/LLM notebooks.    | docs | Jupyter Notebook |
 | [optimization-kernels](https://github.com/brandonhimpfen/optimization-kernels)  | Quantization and inference optimizations.    | tool | C++ |
@@ -82,6 +83,9 @@ A homepage for all my repositories.
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
 | [`.github`](https://github.com/brandonhimpfen/.github)  | GitHub repo defaults.    |  |  |
+| [badges](https://github.com/brandonhimpfen/badges)  | Collection of brand badges for GitHub.    |  |  |
+| [book](https://github.com/brandonhimpfen/book)  | Starter for digital book publications.    |  |  |
+| [github-templates](https://github.com/brandonhimpfen/github-templates)  | GitHub specific templates that you may use as part of your repos or independently.    |  |  |
 
 ### UAV and Drone Technology
 
@@ -100,10 +104,22 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
+| [ads-js](https://github.com/brandonhimpfen/ads-js)  | Drop‑in, vanilla JS + CSS toolkit to style, display, and manage text and image ads on blogs and websites.    |  |  |
+| [base.css](https://github.com/brandonhimpfen/base.css)  | Modern, HTML5 ready CSS base, foundation.    |  |  |
+| [bedrock](https://github.com/brandonhimpfen/bedrock)  | Lightweight, feature-rich front-end framework for developing responsive, mobile first websites and web apps.    |  |  |
+| [better-wp-search](https://github.com/brandonhimpfen/better-wp-search)  |     |  |  |
+| [disable-wp-emojis](https://github.com/brandonhimpfen/disable-wp-emojis)  |     |  |  |
+| [domainname-com](https://github.com/brandonhimpfen/domainname-com)  | Site-specific WordPress functions plugin.    |  |  |
 | [ebru](https://github.com/brandonhimpfen/ebru)  | Front-end framework for creating beautiful websites and web apps.    |  |  |
 | [foundation](https://github.com/brandonhimpfen/foundation)  | No-frills CSS base. Foundation makes browsers render elements consistently.    |  |  |
 | [html-template](https://github.com/brandonhimpfen/html-template)  | Professional HTML template designed to help build fast, robust, and adaptable websites.    |  |  |
+| [less-mixin-library](https://github.com/brandonhimpfen/less-mixin-library)  | Simple, lightweight, yet powerful mixin library for Less.    |  |  |
+| [lightbox](https://github.com/brandonhimpfen/lightbox)  | Lightweight, dependency-free image viewer designed for simplicity and ease of integration.    |  |  |
 | [link-in-bio](https://github.com/brandonhimpfen/link-in-bio)  | Create a single paged Linktree web page.    |  |  |
+| [loremipsum-generator](https://github.com/brandonhimpfen/loremipsum-generator)  | Generate random placeholder text in the style of Lorem Ipsum.    |  |  |
+| [sass-mixin-library](https://github.com/brandonhimpfen/sass-mixin-library)  | Simple, lightweight, yet powerful mixin library for Sass.    |  |  |
+| [social-sharing-buttons](https://github.com/brandonhimpfen/social-sharing-buttons)  | CSS file that allows you to add social sharing buttons to your website.    |  |  |
+| [stylus-mixin-library](https://github.com/brandonhimpfen/stylus-mixin-library)  | Simple, lightweight, yet powerful mixin library for Stylus.    |  |  |
 
 A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
 
