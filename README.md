@@ -21,7 +21,8 @@ A homepage for all my repositories.
     - [Solo Travel](#solo-travel)
   - [Miscellaneous](#miscellaneous)
   - [UAV and Drone Technology](#uav-and-drone-technology)
-  - [Web Development](#web-development)
+  - [Website Development](#website-development)
+    - [Website Themes](#website-themes)
 - [Repositories (Archived)](#repositories-archived)
 
 ## Repositories (Active)
@@ -86,6 +87,7 @@ A homepage for all my repositories.
 | [badges](https://github.com/brandonhimpfen/badges)  | Collection of brand badges for GitHub.    |  |  |
 | [book](https://github.com/brandonhimpfen/book)  | Starter for digital book publications.    |  |  |
 | [github-templates](https://github.com/brandonhimpfen/github-templates)  | GitHub specific templates that you may use as part of your repos or independently.    |  |  |
+| [style-guides](https://github.com/brandonhimpfen/style-guides)  |     |  |  |
 
 ### UAV and Drone Technology
 
@@ -100,7 +102,7 @@ A homepage for all my repositories.
 | [swarm-coordinator](https://github.com/brandonhimpfen/swarm-coordinator)  | Multi-UAV coordination primitives.    | tool | Python |
 | [uav-flight-stability-algorithm](https://github.com/brandonhimpfen/uav-flight-stability-algorithm)  | Python package for detecting abnormal UAV flight stability patterns from telemetry logs.    | tool | Python |
 
-### Web Development
+### Website Development
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
@@ -112,6 +114,7 @@ A homepage for all my repositories.
 | [domainname-com](https://github.com/brandonhimpfen/domainname-com)  | Site-specific WordPress functions plugin.    |  |  |
 | [ebru](https://github.com/brandonhimpfen/ebru)  | Front-end framework for creating beautiful websites and web apps.    |  |  |
 | [foundation](https://github.com/brandonhimpfen/foundation)  | No-frills CSS base. Foundation makes browsers render elements consistently.    |  |  |
+| [html-list-builder](https://github.com/brandonhimpfen/html-list-builder)  | npm package that allows you to easily create ordered and unordered lists in HTML with class and id attributes as options.    |  |  |
 | [html-template](https://github.com/brandonhimpfen/html-template)  | Professional HTML template designed to help build fast, robust, and adaptable websites.    |  |  |
 | [less-mixin-library](https://github.com/brandonhimpfen/less-mixin-library)  | Simple, lightweight, yet powerful mixin library for Less.    |  |  |
 | [lightbox](https://github.com/brandonhimpfen/lightbox)  | Lightweight, dependency-free image viewer designed for simplicity and ease of integration.    |  |  |
@@ -120,6 +123,12 @@ A homepage for all my repositories.
 | [sass-mixin-library](https://github.com/brandonhimpfen/sass-mixin-library)  | Simple, lightweight, yet powerful mixin library for Sass.    |  |  |
 | [social-sharing-buttons](https://github.com/brandonhimpfen/social-sharing-buttons)  | CSS file that allows you to add social sharing buttons to your website.    |  |  |
 | [stylus-mixin-library](https://github.com/brandonhimpfen/stylus-mixin-library)  | Simple, lightweight, yet powerful mixin library for Stylus.    |  |  |
+
+#### Website Themes
+
+| Name            | Description                                  | Type | Format   |
+|-----------------|----------------------------------------------|------|----------|
+| [](https://github.com/brandonhimpfen/)  |     |  |  |
 
 A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
 
