@@ -14,6 +14,7 @@ A homepage for all my repositories.
     - [Solo Travel](#solo-travel)
   - [Miscellaenous](#miscellaenous)
   - [UAV and Drone Technology](#uav-and-drone-technology)
+  - [Web Development](#web-development)
 - [Repositories (Archived)](#repositories-archived)
 
 ## Repositories (Active)
@@ -65,6 +66,12 @@ A homepage for all my repositories.
 | [nofly-datasets](https://github.com/brandonhimpfen/nofly-datasets)  | Structured no-fly zone datasets and loaders.    |  |  |
 | [swarm-coordinator](https://github.com/brandonhimpfen/swarm-coordinator)  | Multi-UAV coordination primitives.    | tool | Python |
 | [uav-flight-stability-algorithm](https://github.com/brandonhimpfen/uav-flight-stability-algorithm)  | Python package for detecting abnormal UAV flight stability patterns from telemetry logs.    | tool | Python |
+
+### Web Development
+
+| Name            | Description                                  | Type | Format   |
+|-----------------|----------------------------------------------|------|----------|
+| [link-in-bio](https://github.com/brandonhimpfen/link-in-bio)  | Create a single paged Linktree web page.    |  |  |
 
 A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
 
