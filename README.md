@@ -42,7 +42,7 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| [](https://github.com/brandonhimpfen/)  |     |  |  |
+| [travel-blogging-prompt-engineering](https://github.com/brandonhimpfen/travel-blogging-prompt-engineering)  | Reference for using AI to support travel blogging work without generating fluff or undermining trust.    |  |  |
 
 ### Cryptocurrency
 
@@ -60,7 +60,7 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| [](https://github.com/brandonhimpfen/)  |     |  |  |
+| [affiliate-link-manager](https://github.com/brandonhimpfen/affiliate-link-manager)  | Lightweight utility for centralizing and resolving affiliate links.    |  |  |
 
 ### Travel
 
@@ -75,6 +75,7 @@ A homepage for all my repositories.
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
 | [solo-traveler-cli](https://github.com/brandonhimpfen/solo-traveler-cli)  | A command-line tool to help solo travelers plan trips, track expenses, manage packing lists, and write travel journals.    | tool | Python |
+| [solo-traveler-ai-prompts](https://github.com/brandonhimpfen/solo-traveler-ai-prompts)  | Structured, reusable prompts designed to support solo travelers across planning, decision-making, safety, and on-the-ground navigation.    |  |  |
 
 ### Miscellaneous
 
@@ -101,6 +102,7 @@ A homepage for all my repositories.
 |-----------------|----------------------------------------------|------|----------|
 | [ebru](https://github.com/brandonhimpfen/ebru)  | Front-end framework for creating beautiful websites and web apps.    |  |  |
 | [foundation](https://github.com/brandonhimpfen/foundation)  | No-frills CSS base. Foundation makes browsers render elements consistently.    |  |  |
+| [html-template](https://github.com/brandonhimpfen/html-template)  | Professional HTML template designed to help build fast, robust, and adaptable websites.    |  |  |
 | [link-in-bio](https://github.com/brandonhimpfen/link-in-bio)  | Create a single paged Linktree web page.    |  |  |
 
 A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
