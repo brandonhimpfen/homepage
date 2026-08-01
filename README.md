@@ -63,6 +63,7 @@ A homepage for all my repositories.
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
 | [affiliate-link-manager](https://github.com/brandonhimpfen/affiliate-link-manager)  | Lightweight utility for centralizing and resolving affiliate links.    |  |  |
+| [linkedin](https://github.com/brandonhimpfen/linkedin)  | Practical open reference for using LinkedIn more effectively.    |  |  |
 
 ### Travel
 
@@ -120,15 +121,25 @@ A homepage for all my repositories.
 | [lightbox](https://github.com/brandonhimpfen/lightbox)  | Lightweight, dependency-free image viewer designed for simplicity and ease of integration.    |  |  |
 | [link-in-bio](https://github.com/brandonhimpfen/link-in-bio)  | Create a single paged Linktree web page.    |  |  |
 | [loremipsum-generator](https://github.com/brandonhimpfen/loremipsum-generator)  | Generate random placeholder text in the style of Lorem Ipsum.    |  |  |
+| [material-design-bootstrap-buttons](https://github.com/brandonhimpfen/material-design-bootstrap-buttons)  |     |  |  |
+| [responsive.css](https://github.com/brandonhimpfen/responsive.css)  |     |  |  |
 | [sass-mixin-library](https://github.com/brandonhimpfen/sass-mixin-library)  | Simple, lightweight, yet powerful mixin library for Sass.    |  |  |
+| [smart-accessible-components](https://github.com/brandonhimpfen/smart-accessible-components)  | Small, framework-agnostic JavaScript library that gives you WCAG-friendly UI primitives out of the box.    |  |  |
 | [social-sharing-buttons](https://github.com/brandonhimpfen/social-sharing-buttons)  | CSS file that allows you to add social sharing buttons to your website.    |  |  |
 | [stylus-mixin-library](https://github.com/brandonhimpfen/stylus-mixin-library)  | Simple, lightweight, yet powerful mixin library for Stylus.    |  |  |
+| [wp-tests](https://github.com/brandonhimpfen/wp-tests)  | Fantastically exhaustive set of tools to help you test and measure the integrity of your WordPress site.    |  |  |
 
 #### Website Themes
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| [](https://github.com/brandonhimpfen/)  |     |  |  |
+| [royal](https://github.com/brandonhimpfen/royal)  |     |  |  |
+| [royce](https://github.com/brandonhimpfen/royce)  |     |  |  |
+| [box](https://github.com/brandonhimpfen/box)  |     |  |  |
+| [jasper](https://github.com/brandonhimpfen/jasper)  | Casper original default theme for Jekyll.    |  |  |
+| [pineapple](https://github.com/brandonhimpfen/pineapple)  |     |  |  |
+| [sky](https://github.com/brandonhimpfen/sky)  |     |  |  |
+| [starter](https://github.com/brandonhimpfen/starter)  | Basic HTML and Sass starter theme for Bootstrap.    |  |  |
 
 A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
 
