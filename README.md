@@ -33,6 +33,7 @@ A homepage for all my repositories.
 |-----------------|----------------------------------------------|------|----------|
 | [ai-contract-eval](https://github.com/brandonhimpfen/ai-contract-eval)  | Evaluation framework for structured AI outputs.    |  |  |
 | [ai-contract-kit](https://github.com/brandonhimpfen/ai-contract-kit)  | Define predictable interfaces between applications and AI models.    |  |  |
+| [ai-contract-observer](https://github.com/brandonhimpfen/ai-contract-observer)  | Lightweight observability layer for AI systems.    |  |  |
 | [ai-incident-reporting-system](https://github.com/brandonhimpfen/ai-incident-reporting-system)  | Structured system for reporting, classifying, and resolving AI incidents.    |  |  |
 | [ai-policies](https://github.com/brandonhimpfen/ai-policies)  | Comprehensive set of open, customizable policy templates for responsible corporate AI development, usage, and governance.    |  |  |
 | [ai-provenance-corpus](https://github.com/brandonhimpfen/ai-provenance-corpus)  | Machine-readable corpus of provenance events describing how AI-assisted artifacts are retrieved, generated, cited, edited, verified, reviewed and published.    |  |  |
@@ -63,9 +64,22 @@ A homepage for all my repositories.
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
 | [affiliate-link-manager](https://github.com/brandonhimpfen/affiliate-link-manager)  | Lightweight utility for centralizing and resolving affiliate links.    |  |  |
+| [link-cloaker](https://github.com/brandonhimpfen/link-cloaker)  | Lightweight utility for generating clean redirect paths for tracking and affiliate URLs.    |  |  |
 | [linkedin](https://github.com/brandonhimpfen/linkedin)  | Practical open reference for using LinkedIn more effectively.    |  |  |
+| [seo-content-optimizer](https://github.com/brandonhimpfen/seo-content-optimizer)  | npm package that helps optimize content for search engine optimization (SEO).    |  |  |
+| [seo-dashboard](https://github.com/brandonhimpfen/seo-dashboard)  | Lightweight utility package for normalizing, summarizing, and preparing SEO data for dashboards, internal tools, and reporting workflows.    |  |  |
+| [seo-friendly-urls](https://github.com/brandonhimpfen/seo-friendly-urls)  | Utility that helps convert strings to SEO-friendly URLs.    |  |  |
+| [seo-preflight](https://github.com/brandonhimpfen/seo-preflight)  | Lightweight validation layer for checking SEO-critical page fields before publish.    |  |  |
+| [seo-reports](https://github.com/brandonhimpfen/seo-reports)  | Generate simple SEO report summaries from validation and monitoring data.    |  |  |
+| [seo-sitemap-generator](https://github.com/brandonhimpfen/seo-sitemap-generator)  | Generate XML sitemaps for websites, helping search engines discover and index pages efficiently.    |  |  |
+| [seo-utils](https://github.com/brandonhimpfen/seo-utils)  | Provides small, focused helper functions for tasks that appear frequently in content systems, static sites, publishing workflows, and web applications.    |  |  |
+| [sponsor-block-renderer](https://github.com/brandonhimpfen/sponsor-block-renderer)  | Render lightweight sponsor sections for websites, newsletters, and content workflows.    |  |  |
 
 ### Travel
+
+| Name            | Description                                  | Type | Format   |
+|-----------------|----------------------------------------------|------|----------|
+| [country-data-lite](https://github.com/brandonhimpfen/country-data-lite)  | Lightweight country data utility with currency, plug types, and visa basics.    |  |  |
 
 #### Digital Nomadism
 
@@ -88,7 +102,11 @@ A homepage for all my repositories.
 | [badges](https://github.com/brandonhimpfen/badges)  | Collection of brand badges for GitHub.    |  |  |
 | [book](https://github.com/brandonhimpfen/book)  | Starter for digital book publications.    |  |  |
 | [github-templates](https://github.com/brandonhimpfen/github-templates)  | GitHub specific templates that you may use as part of your repos or independently.    |  |  |
+| [kb](https://github.com/brandonhimpfen/kb)  | Jekyll-powered knowledge base with domain hubs for travel, AI, crypto, programming, and digital nomadism.    |  |  |
+| [pages](https://github.com/brandonhimpfen/pages)  | Reference pages for travel, digital topics, and technology.    |  |  |
 | [style-guides](https://github.com/brandonhimpfen/style-guides)  |     |  |  |
+| [tools](https://github.com/brandonhimpfen/tools)  | Practical tools for travel planning, everyday utilities, and lightweight web helpers.    |  |  |
+| [www](https://github.com/brandonhimpfen/www)  | Website.    |  |  |
 
 ### UAV and Drone Technology
 
@@ -107,6 +125,7 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
+| [accessibility-kit](https://github.com/brandonhimpfen/accessibility-kit)  | TypeScript tool for ARIA patterns, accessibility linting, and practical HTML checks.    |  |  |
 | [ads-js](https://github.com/brandonhimpfen/ads-js)  | Drop‑in, vanilla JS + CSS toolkit to style, display, and manage text and image ads on blogs and websites.    |  |  |
 | [base.css](https://github.com/brandonhimpfen/base.css)  | Modern, HTML5 ready CSS base, foundation.    |  |  |
 | [bedrock](https://github.com/brandonhimpfen/bedrock)  | Lightweight, feature-rich front-end framework for developing responsive, mobile first websites and web apps.    |  |  |
