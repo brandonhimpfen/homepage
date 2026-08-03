@@ -57,7 +57,9 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| [](https://github.com/brandonhimpfen/)  |     |  |  |
+| [brand-colors](https://github.com/brandonhimpfen/brand-colors)  | Explore brand color palettes from over 1050 well-known brands.    |  |  |
+| [css-gradients](https://github.com/brandonhimpfen/css-gradients)  | A collection of CSS for visually appealing gradients.    |  |  |
+| [colors](https://github.com/brandonhimpfen/colors)  | Explore curated primary and secondary color pairs designed for modern interfaces, branding, and web design.    |  |  |
 
 ### Digital Marketing
 
@@ -73,6 +75,8 @@ A homepage for all my repositories.
 | [seo-reports](https://github.com/brandonhimpfen/seo-reports)  | Generate simple SEO report summaries from validation and monitoring data.    |  |  |
 | [seo-sitemap-generator](https://github.com/brandonhimpfen/seo-sitemap-generator)  | Generate XML sitemaps for websites, helping search engines discover and index pages efficiently.    |  |  |
 | [seo-utils](https://github.com/brandonhimpfen/seo-utils)  | Provides small, focused helper functions for tasks that appear frequently in content systems, static sites, publishing workflows, and web applications.    |  |  |
+| [social-media-campaign-roi-calculator](https://github.com/brandonhimpfen/social-media-campaign-roi-calculator)  | Calculate the return on investment (ROI) of social media campaigns based on key performance indicators (KPIs) and campaign costs.    |  |  |
+| [social-media-math](https://github.com/brandonhimpfen/social-media-math)  | npm package that provides a collection of mathematical formulas relevant to social media marketing and management.    |  |  |
 | [sponsor-block-renderer](https://github.com/brandonhimpfen/sponsor-block-renderer)  | Render lightweight sponsor sections for websites, newsletters, and content workflows.    |  |  |
 
 ### Travel
